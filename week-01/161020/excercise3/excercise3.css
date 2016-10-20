@@ -16,9 +16,16 @@ p {
   margin: 10px;
 }
 
+p.box {
+  border-bottom-width: 8px;
+}
+p.box1 {
+  border-bottom-width: 4px;
+}
 section {
-  padding-top: 10px;
-  padding-left: 28px;
-  padding-right: 30px;
-  padding-bottom: 30px;
+  padding: 0px;
+  border-style: solid;
+  border-color: #008000;
+  border-width: 10px;
+
 }
